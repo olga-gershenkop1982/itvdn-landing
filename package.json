@@ -1,0 +1,27 @@
+{
+  "name": "itvdn-landing",
+  "version": "1.0.0",
+  "description": "This is my training project from ITVDN.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olga-gershenkop1982/itvdn-landing.git"
+  },
+  "author": "Gershenkop Olga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olga-gershenkop1982/itvdn-landing/issues"
+  },
+  "homepage": "https://github.com/olga-gershenkop1982/itvdn-landing#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.70.0"
+  }
+}
