@@ -1,0 +1,11 @@
+body {
+  color: firebrick;
+  background-color: yellow;
+}
+
+h1,
+p {
+  border: 2px solid red;
+}
+
+@import "blocks/header";
